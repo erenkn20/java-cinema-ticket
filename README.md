@@ -5,6 +5,7 @@ seans saatleri içerisinde bir rezervasyon yapmasına olanak verir ve rezervasyo
 1.Movie Sınıfı:
 
 -name: Film adını temsil eden bir String.
+
 -sessionTimes: Film için oturum zamanlarının bir listesini tutan bir ArrayList.
 -Movie sınıfı, bir filmi temsil eder.
 -addSessionTime: Film için bir oturum zamanını eklemek için kullanılan bir metottur.
